@@ -1,3 +1,3 @@
 # dribbble-shots
 
-get "shots" from dribbble
+Get simple "shots" from Dribbble API.
