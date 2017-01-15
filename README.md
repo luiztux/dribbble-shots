@@ -1,3 +1,3 @@
 # dribbble-shots
 
-get simples shots from dribbble
+get "shots" from dribbble
