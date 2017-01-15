@@ -17,10 +17,3 @@
 	font-family: Verdana, sans-serif!important;
 	font-size: 1em!important;
 }
-
-.divShow {
-	display: block !important;
-	width: 50%;
-	opacity: .9;
-	overflow: auto;
-}
