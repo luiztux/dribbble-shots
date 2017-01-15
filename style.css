@@ -1,0 +1,26 @@
+
+.userAvatar {
+	
+	width: 60px!important;
+	height: 60px!important;
+	border-radius: 50%;
+	
+}
+
+.verdanaTitle {
+	font-family: Verdana, sans-serif;
+	opacity: 0.60;
+	filter: alpha(opacity=60);
+}
+
+.verdanaDesc {
+	font-family: Verdana, sans-serif!important;
+	font-size: 1em!important;
+}
+
+.divShow {
+	display: block !important;
+	width: 50%;
+	opacity: .9;
+	overflow: auto;
+}
