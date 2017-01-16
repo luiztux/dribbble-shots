@@ -27,10 +27,10 @@ $(" #main ").append("<div> <h2>" + value.title + "</h2> </div>" + "<img src='"
 				
 $('<div id="imgShots" class= "w3-third w3-container w3-margin-bottom"> <a href="' 
 + value.html_url + '" ><img src="' + value.images.normal 
-+ '" id= "shots" class= "w3-card-4" /></a>'
-+ '<div class= "w3-top-left w3-black w3-padding" style= "max-width: 93%;" ><i class="fa fa-eye" style= "font-size: 20px; color: #fff;" />'
++ '" id= "shots" class= "w3-card-4" style="width: 100%;" /></a>'
++ '<div class= "w3-top-left w3-black w3-padding" style= "width: 100%;" ><i class="fa fa-eye" style= "font-size: 20px; color: #fff;" />'
 + '<span style= "color: #fff;"> ' + ' ' + value.views_count + '</span>' 
-+ '<div id="desc" class="w3-container w3-dark" style="max-width: 90%; max-height: 30%; display: block;" >' + value.description + '</div>')
++ '<div id="desc" class="w3-container w3-dark" style="width: 100%; display: block;" >' + value.description + '</div>')
 	.clone().appendTo("#main").clone();
 				
 				
